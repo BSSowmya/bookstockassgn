@@ -1,0 +1,2 @@
+module SearchbookauthHelper
+end
